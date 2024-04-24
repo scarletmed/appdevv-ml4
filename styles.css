@@ -7,7 +7,7 @@ body {
     background-color: #F5EFE6;
     font-family: "Open Sans";
     color: #2C3639;
-    font-size: 18px;
+    font-size: 16px;
     text-align: center;
 }
 
@@ -104,11 +104,11 @@ button {
     font-weight: bold;
 }
 .button1 {
-    background-color: forestgreen;
+    background-color: black;
     color: #eee;
 }
 .button1:hover {
-    background-color: black;
+    background-color: white;
     color: #eee;
 }
 .button2 {
